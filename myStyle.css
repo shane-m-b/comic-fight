@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 2%;
+    font-family: 'Passion One', cursive;
+}
+
+h2 {
+    margin: -2%;
+}
+
+#hTitle {
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    color: red;
+}
+
+/*BUTTONS*/
+
+.btnSubmit {
+    background-color: darkslateblue;
+    color: white;
+    font-family: 'Bungee', cursive;
+    border: medium;
+}
+
+#battleSubmit {
+    background-color: red;
+    color: white;
+    font-family: 'Bungee', cursive;
+    font-size: 2.5vw;
+
+}
+
+#resetButton {
+    background-color: darkgreen;
+    color: white;
+    font-family: 'Bungee', cursive;
+    font-size: 2.5vw;
+}
+
+/*Information/Title Div*/
+
+#infoDiv {
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    margin: auto;
+    padding: 1%;
+    width: 40%;
+
+}
+
+#infoDiv h2 {
+    margin: 0%;
+}
+
+#optionDiv {
+    text-align: center;
+}
+
+/*Character 1 Content*/
+
+#character1Div {
+    text-align: center;
+    float: left;
+    margin: auto;
+    margin-left: 10%;
+    width: 30%;
+    font-family: 'Bungee', cursive;
+}
+
+#character1Div img {
+    /*height: 50%;*/
+    width: 90%;
+}
+
+/*Character 2 Content*/
+
+#character2Div {
+    text-align: center;
+    float: right;
+    margin: auto;
+    margin-right: 10%;
+    width: 30%;
+    font-family: 'Bungee', cursive;
+}
+
+#character2Div img {
+    /*height: 50%;*/
+    width: 90%;
+}
+
